@@ -1,2 +1,0 @@
-# GoofinInReact
-Created with CodeSandbox
